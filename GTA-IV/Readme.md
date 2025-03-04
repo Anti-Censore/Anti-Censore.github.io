@@ -1,5 +1,5 @@
 ##How Use
 
-First Install Fnasub Translation and then Put Pacthcer in the same folder With GTAIV.exe and Run.
+First Install Fansub Translation and then Put Patcher in the same folder With GTAIV.exe and Run.
 
 [Download](https://anti-censore.github.io/GTA-IV/Anti-Censore-GTA-IV.exe)
